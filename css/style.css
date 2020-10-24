@@ -346,3 +346,16 @@ iframe{
     text-align: center;
 }
 
+/* RULES */
+ul {
+    list-style-type: square;
+}
+
+.groups, .recreation {
+    list-style-type: lower-alpha;
+}
+
+.coach {
+    list-style-type: circle;
+}
+
