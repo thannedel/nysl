@@ -455,7 +455,6 @@ input[type="submit"]:hover {
 
 .goTopBtn:hover {
     transform: translateY(-1rem);
-    cursor: pointer;
 }
 }
 
