@@ -24,9 +24,6 @@ body {
     overflow: hidden;
 }
 
-ul li{
-    list-style: none;
-}
 
 .grid{
     width:100%;
@@ -248,6 +245,8 @@ footer p{
     background-clip: content-box;
     background-size: cover;
     background-position: center;
+    list-style: none;
+    
 }
 
 
