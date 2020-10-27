@@ -10,6 +10,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -443,3 +444,15 @@ input[type="submit"]:hover {
 
 
 
+/* GoTop Button */
+.goTopBtn {
+    position: fixed;
+    bottom: 10rem;
+    right: 2.5rem;
+    transition: 0.2s ease-in-out;
+}
+
+.goTopBtn:hover {
+    transform: translateY(-1rem);
+    cursor: pointer;
+}
